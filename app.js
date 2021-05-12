@@ -128,7 +128,8 @@ function draw() {
 
             
             gameover=true;
-            
+            bg_music.pause();
+            bg_music.currentTime = 0;
             playAgain();
             
         }
