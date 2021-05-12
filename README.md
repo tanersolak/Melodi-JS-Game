@@ -2,9 +2,9 @@
 [Oyun Linki](https://tanersolak.github.io/Melodi-JS-Game/)
 
 # Özet
-Bursa Teknik Üniversitesi Web Tabanlı Programlama Dilleri quiz ödevi için istenen
+Bursa Teknik Üniversitesi Web Tabanlı Programlama Dilleri için sadece HTML ve JavaScript kullanılarak yapılması istenen ödev.
 ## Hikaye
-
+Müziği dinlemeye devam edebilmek için düşen okları zamanında yok etmen gerek.
 ## Nasıl Oynanır?
 `W` `A` `S` `D` tuşlarıyla veya yön tuşlarını kullanarak yukarıdan düşen oklarla aynı yön tuşuna tam zamanında basman gerek.
 `P` tuşuna basarak oyunu duraklatabilirsin.
