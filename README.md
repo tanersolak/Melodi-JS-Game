@@ -1,5 +1,5 @@
-#[Melodi](https://tanersolak.github.io/Melodi-JS-Game/) 🎹
-
+#Melodi 🎹
+[Oyun Linki](https://tanersolak.github.io/Melodi-JS-Game/)
 
 # Özet
 Bursa Teknik Üniversitesi Web Tabanlı Programlama Dilleri quiz ödevi için istenen
@@ -15,11 +15,6 @@ Bursa Teknik Üniversitesi Web Tabanlı Programlama Dilleri quiz ödevi için is
 # Kullanılan Teknolojiler
 - HTML
 - JavaScript
-
-# Kurulum ve Oynanış
-## Github üzerinden indirmek
-<img src="images/kurulum1.png">
-Resimdeki adımları takip ederek kodu zip olarak indirdikten sonra zipi açarak dosya içindeki index.html'e çift tıklayarak açarsanız oyunu oynabilirsiniz.
 
 ## Oyun linki
 https://tanersolak.github.io/Melodi-JS-Game/
